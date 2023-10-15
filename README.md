@@ -4,5 +4,8 @@ dashboard1 video linnk-https://public.tableau.com/views/dashboard1_1697100220502
 
 dashboard2 video link-https://public.tableau.com/views/nmprojectdashboard2_16969317073570/IREVOLUTION-THINKDUFFERENT2?:language=en-GB&:display_count=n&:origin=viz_share_link
 
+
+story link-https://public.tableau.com/views/Projectstory_16973015940700/IREVOLUTIONFINALLSTORY?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 video demonstration link-https://drive.google.com/file/d/1C6pEc7AbQEa1scC6D5m7jgEbvwcK8jsw/view?usp=drive_link
 
